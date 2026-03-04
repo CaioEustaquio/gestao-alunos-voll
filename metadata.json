@@ -1,0 +1,5 @@
+{
+  "name": "Gestão de alunos",
+  "description": "A student management dashboard with CSV and PDF export capabilities.",
+  "requestFramePermissions": []
+}
